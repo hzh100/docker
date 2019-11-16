@@ -51,7 +51,6 @@ docker 从开始到放弃
 
   ## docker 常用命令
 
-    [docker command](https://github.com/hzh100/docker/blob/master/docker-commad.md)
-
+  [docker command](./docker-commad.md)
 
 
