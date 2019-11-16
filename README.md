@@ -1,7 +1,7 @@
 # docker
 docker 从开始到放弃
 
-## docker 安装 -- MacOs
+## docker 安装 -- MacOS
 
 ### 使用 Homebrew 安装
 
